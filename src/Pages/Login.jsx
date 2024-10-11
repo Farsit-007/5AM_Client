@@ -30,9 +30,7 @@ const Login = () => {
         })
         reset()
     }
-
     return (
-
         <div className="flex items-center justify-center min-h-[80vh]">
             <div className="flex bg-slate-300 flex-col  lg:mt-10 md:w-[450px] p-10 pb-4 pt-2 rounded-xl ">
                 
